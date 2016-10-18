@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LectorPDF417</string>
+    <string name="UseWith">Use with</string>
+    <string name="StartScanning">Start scanning</string>
+</resources>
